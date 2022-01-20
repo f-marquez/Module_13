@@ -5,7 +5,10 @@ Basil and Sadhana like how you created your earthquake map with two different ma
 
 ## Deliverables:
 
-This new assignment consists of three technical analysis deliverables. You will submit the following:
-Deliverable 1: Tectonic Plate Data
-Deliverable 2: Major Earthquake Data
-Deliverable 3: an Additional Map
+This new assignment consists of three technical analysis deliverables:
+
+### **Deliverable 1:** Tectonic Plate Data
+
+### **Deliverable 2:** Major Earthquake Data
+
+### **Deliverable 3:** an Additional Map
