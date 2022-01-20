@@ -12,3 +12,5 @@ This new assignment consists of three technical analysis deliverables:
 **Deliverable 2:** Major Earthquake Data
 
 **Deliverable 3:** an Additional Map
+
+![Alt text](https://github.com/f-marquez/Module_13/blob/main/images/dark.png)
