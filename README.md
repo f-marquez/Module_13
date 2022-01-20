@@ -13,4 +13,8 @@ This new assignment consists of three technical analysis deliverables:
 
 **Deliverable 3:** an Additional Map
 
+![Alt text](https://github.com/f-marquez/Module_13/blob/main/images/light.png)
+
 ![Alt text](https://github.com/f-marquez/Module_13/blob/main/images/dark.png)
+
+![Alt text](https://github.com/f-marquez/Module_13/blob/main/images/satellite.png)
